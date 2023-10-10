@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block body %}
+  {% if request.organization %}
+    {% cache 3600 'organization_html' request.organization.id MATH_ENGINE %}
+      {{ request.organization.about|markdown|reference|str|safe }}
+    {% endcache %}
+  {% else %}
+    <h4>
+      <a target="_blank" href="">SEEEOJ (School of Electrical and Electronic Engineering Online Judge)</a> là một trang web chấm bài tự động được phát triển dựa
+      trên nền tảng mã nguồn mở <a target="_blank" href="https://dmoj.ca/">DMOJ</a>. Được xây dựng với mục đích ban đầu là
+      tạo ra một môi trường học tập cho sinh viên và thử nghiệm thi lập trình online cho các kỳ thi giữa kỳ, cuối kỳ các môn Lập Trình <a target="_blank"
+        href="https://hust.edu.vn/">Đại học Bách khoa Hà Nội</a>, Các bạn có thể tham khảo mã nguồn của trang web tại <a target="_blank"
+        href="https://github.com/phamdoantinh/seee_dmoj">Github repo chính thức</a>. Mọi ý kiến đóng góp và thắc mắc xin gửi
+      về:
+      <ul>
+        <li>Thầy <a target="_blank" href="https://set.hust.edu.vn/pham-doan-tinh"> Phạm Doãn Tĩnh </a> , Trưởng Bộ môn Điện tử và
+          kỹ thuật máy tính, Trường Điện - Điện tử, ĐHBKHN, 
+          email: <a href="mailto:tinh.phamdoan@hust.edu.vn">tinh.phamdoan@hust.edu.vn</a>
+        </li>
+        <li><a target="_blank" href="https://www.facebook.com/tranvanchung1409">Trần Văn Chung</a>, 
+          email: <a href="mailto:chung.tv182388@sis.hust.edu.vn">chung.tv182388@sis.hust.edu.vn</a></li>
+        <li><a target="_blank" href="https://www.facebook.com/tienmatdo084">Trần Ngọc Tiến</a>, 
+          email: <a href="mailto:tien.tn182819@sis.hust.edu.vn">tien.tn182819@sis.hust.edu.vn</a>
+        </li>
+      </ul>
+    </h4>
+  {% endif %}
+{% endblock %}

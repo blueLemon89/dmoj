@@ -1,0 +1,526 @@
+INFO 2023-04-12 04:29:04,418 daemon Exiting due to SIGINT
+INFO 2023-04-12 07:01:09,271 daemon Exiting due to SIGINT
+INFO 2023-04-12 07:01:39,484 judge_handler Judge connected from: ('192.168.144.209', 58477)
+WARNING 2023-04-12 07:01:39,536 judge_handler Judge authentication failure: ('192.168.144.209', 58477)
+INFO 2023-04-12 07:01:39,537 judge_handler Judge disconnected from: ('192.168.144.209', 58477) with name None
+INFO 2023-04-12 07:02:16,038 judge_handler Judge connected from: ('192.168.144.209', 58484)
+WARNING 2023-04-12 07:02:16,047 judge_handler Judge authentication failure: ('192.168.144.209', 58484)
+INFO 2023-04-12 07:02:16,048 judge_handler Judge disconnected from: ('192.168.144.209', 58484) with name None
+INFO 2023-04-12 07:02:20,058 judge_handler Judge connected from: ('192.168.144.209', 58485)
+WARNING 2023-04-12 07:02:20,068 judge_handler Judge authentication failure: ('192.168.144.209', 58485)
+INFO 2023-04-12 07:02:20,070 judge_handler Judge disconnected from: ('192.168.144.209', 58485) with name None
+INFO 2023-04-12 07:02:26,083 judge_handler Judge connected from: ('192.168.144.209', 58486)
+WARNING 2023-04-12 07:02:26,091 judge_handler Judge authentication failure: ('192.168.144.209', 58486)
+INFO 2023-04-12 07:02:26,092 judge_handler Judge disconnected from: ('192.168.144.209', 58486) with name None
+INFO 2023-04-12 07:02:35,099 judge_handler Judge connected from: ('192.168.144.209', 58487)
+WARNING 2023-04-12 07:02:35,108 judge_handler Judge authentication failure: ('192.168.144.209', 58487)
+INFO 2023-04-12 07:02:35,110 judge_handler Judge disconnected from: ('192.168.144.209', 58487) with name None
+INFO 2023-04-12 07:02:48,618 judge_handler Judge connected from: ('192.168.144.209', 58493)
+WARNING 2023-04-12 07:02:48,630 judge_handler Judge authentication failure: ('192.168.144.209', 58493)
+INFO 2023-04-12 07:02:48,633 judge_handler Judge disconnected from: ('192.168.144.209', 58493) with name None
+INFO 2023-04-12 07:03:08,891 judge_handler Judge connected from: ('192.168.144.209', 58494)
+WARNING 2023-04-12 07:03:08,900 judge_handler Judge authentication failure: ('192.168.144.209', 58494)
+INFO 2023-04-12 07:03:08,901 judge_handler Judge disconnected from: ('192.168.144.209', 58494) with name None
+INFO 2023-04-12 07:03:39,284 judge_handler Judge connected from: ('192.168.144.209', 58519)
+WARNING 2023-04-12 07:03:39,290 judge_handler Judge authentication failure: ('192.168.144.209', 58519)
+INFO 2023-04-12 07:03:39,291 judge_handler Judge disconnected from: ('192.168.144.209', 58519) with name None
+INFO 2023-04-12 07:04:24,872 judge_handler Judge connected from: ('192.168.144.209', 58537)
+WARNING 2023-04-12 07:04:24,886 judge_handler Judge authentication failure: ('192.168.144.209', 58537)
+INFO 2023-04-12 07:04:24,887 judge_handler Judge disconnected from: ('192.168.144.209', 58537) with name None
+INFO 2023-04-12 07:05:24,922 judge_handler Judge connected from: ('192.168.144.209', 58573)
+WARNING 2023-04-12 07:05:24,933 judge_handler Judge authentication failure: ('192.168.144.209', 58573)
+INFO 2023-04-12 07:05:24,934 judge_handler Judge disconnected from: ('192.168.144.209', 58573) with name None
+INFO 2023-04-12 07:06:24,957 judge_handler Judge connected from: ('192.168.144.209', 58592)
+WARNING 2023-04-12 07:06:25,008 judge_handler Judge authentication failure: ('192.168.144.209', 58592)
+INFO 2023-04-12 07:06:25,010 judge_handler Judge disconnected from: ('192.168.144.209', 58592) with name None
+INFO 2023-04-12 07:07:45,160 judge_handler Judge connected from: ('192.168.144.209', 58607)
+WARNING 2023-04-12 07:07:45,185 judge_handler Judge authentication failure: ('192.168.144.209', 58607)
+INFO 2023-04-12 07:07:45,194 judge_handler Judge disconnected from: ('192.168.144.209', 58607) with name None
+INFO 2023-04-12 07:07:49,215 judge_handler Judge connected from: ('192.168.144.209', 58608)
+WARNING 2023-04-12 07:07:49,233 judge_handler Judge authentication failure: ('192.168.144.209', 58608)
+INFO 2023-04-12 07:07:49,234 judge_handler Judge disconnected from: ('192.168.144.209', 58608) with name None
+INFO 2023-04-12 07:07:55,243 judge_handler Judge connected from: ('192.168.144.209', 58609)
+WARNING 2023-04-12 07:07:55,271 judge_handler Judge authentication failure: ('192.168.144.209', 58609)
+INFO 2023-04-12 07:07:55,274 judge_handler Judge disconnected from: ('192.168.144.209', 58609) with name None
+INFO 2023-04-12 07:08:04,297 judge_handler Judge connected from: ('192.168.144.209', 58610)
+WARNING 2023-04-12 07:08:04,308 judge_handler Judge authentication failure: ('192.168.144.209', 58610)
+INFO 2023-04-12 07:08:04,309 judge_handler Judge disconnected from: ('192.168.144.209', 58610) with name None
+INFO 2023-04-12 07:08:17,818 judge_handler Judge connected from: ('192.168.144.209', 58614)
+WARNING 2023-04-12 07:08:17,828 judge_handler Judge authentication failure: ('192.168.144.209', 58614)
+INFO 2023-04-12 07:08:17,830 judge_handler Judge disconnected from: ('192.168.144.209', 58614) with name None
+INFO 2023-04-12 07:08:38,092 judge_handler Judge connected from: ('192.168.144.209', 58618)
+WARNING 2023-04-12 07:08:38,102 judge_handler Judge authentication failure: ('192.168.144.209', 58618)
+INFO 2023-04-12 07:08:38,103 judge_handler Judge disconnected from: ('192.168.144.209', 58618) with name None
+INFO 2023-04-12 07:09:08,491 judge_handler Judge connected from: ('192.168.144.209', 58619)
+WARNING 2023-04-12 07:09:08,505 judge_handler Judge authentication failure: ('192.168.144.209', 58619)
+INFO 2023-04-12 07:09:08,506 judge_handler Judge disconnected from: ('192.168.144.209', 58619) with name None
+INFO 2023-04-12 07:09:54,120 judge_handler Judge connected from: ('192.168.144.209', 58666)
+WARNING 2023-04-12 07:09:54,130 judge_handler Judge authentication failure: ('192.168.144.209', 58666)
+INFO 2023-04-12 07:09:54,136 judge_handler Judge disconnected from: ('192.168.144.209', 58666) with name None
+INFO 2023-04-12 07:10:54,129 judge_handler Judge connected from: ('192.168.144.209', 58759)
+WARNING 2023-04-12 07:10:54,142 judge_handler Judge authentication failure: ('192.168.144.209', 58759)
+INFO 2023-04-12 07:10:54,145 judge_handler Judge disconnected from: ('192.168.144.209', 58759) with name None
+INFO 2023-04-12 07:11:54,339 judge_handler Judge connected from: ('192.168.144.209', 58783)
+WARNING 2023-04-12 07:11:54,443 judge_handler Judge authentication failure: ('192.168.144.209', 58783)
+INFO 2023-04-12 07:11:54,444 judge_handler Judge disconnected from: ('192.168.144.209', 58783) with name None
+INFO 2023-04-12 07:12:38,048 daemon Exiting due to SIGINT
+INFO 2023-04-12 07:16:47,056 daemon Exiting due to SIGINT
+INFO 2023-04-12 07:39:12,139 daemon Exiting due to SIGINT
+INFO 2023-04-12 07:41:10,950 judge_handler Judge connected from: ('192.168.144.209', 60550)
+WARNING 2023-04-12 07:41:10,959 judge_handler Judge authentication failure: ('192.168.144.209', 60550)
+INFO 2023-04-12 07:41:10,960 judge_handler Judge disconnected from: ('192.168.144.209', 60550) with name None
+INFO 2023-04-12 07:41:14,971 judge_handler Judge connected from: ('192.168.144.209', 60554)
+WARNING 2023-04-12 07:41:14,981 judge_handler Judge authentication failure: ('192.168.144.209', 60554)
+INFO 2023-04-12 07:41:14,983 judge_handler Judge disconnected from: ('192.168.144.209', 60554) with name None
+INFO 2023-04-12 07:41:20,990 judge_handler Judge connected from: ('192.168.144.209', 60555)
+WARNING 2023-04-12 07:41:21,000 judge_handler Judge authentication failure: ('192.168.144.209', 60555)
+INFO 2023-04-12 07:41:21,002 judge_handler Judge disconnected from: ('192.168.144.209', 60555) with name None
+INFO 2023-04-12 07:41:30,010 judge_handler Judge connected from: ('192.168.144.209', 60556)
+WARNING 2023-04-12 07:41:30,017 judge_handler Judge authentication failure: ('192.168.144.209', 60556)
+INFO 2023-04-12 07:41:30,019 judge_handler Judge disconnected from: ('192.168.144.209', 60556) with name None
+INFO 2023-04-12 07:41:43,527 judge_handler Judge connected from: ('192.168.144.209', 60559)
+WARNING 2023-04-12 07:41:43,537 judge_handler Judge authentication failure: ('192.168.144.209', 60559)
+INFO 2023-04-12 07:41:43,539 judge_handler Judge disconnected from: ('192.168.144.209', 60559) with name None
+INFO 2023-04-12 07:42:03,799 judge_handler Judge connected from: ('192.168.144.209', 60563)
+WARNING 2023-04-12 07:42:03,812 judge_handler Judge authentication failure: ('192.168.144.209', 60563)
+INFO 2023-04-12 07:42:03,813 judge_handler Judge disconnected from: ('192.168.144.209', 60563) with name None
+INFO 2023-04-12 07:42:34,197 judge_handler Judge connected from: ('192.168.144.209', 60569)
+WARNING 2023-04-12 07:42:34,206 judge_handler Judge authentication failure: ('192.168.144.209', 60569)
+INFO 2023-04-12 07:42:34,208 judge_handler Judge disconnected from: ('192.168.144.209', 60569) with name None
+INFO 2023-04-12 07:43:19,780 judge_handler Judge connected from: ('192.168.144.209', 60575)
+WARNING 2023-04-12 07:43:19,788 judge_handler Judge authentication failure: ('192.168.144.209', 60575)
+INFO 2023-04-12 07:43:19,789 judge_handler Judge disconnected from: ('192.168.144.209', 60575) with name None
+INFO 2023-04-12 07:44:19,799 judge_handler Judge connected from: ('192.168.144.209', 60583)
+WARNING 2023-04-12 07:44:19,808 judge_handler Judge authentication failure: ('192.168.144.209', 60583)
+INFO 2023-04-12 07:44:19,809 judge_handler Judge disconnected from: ('192.168.144.209', 60583) with name None
+INFO 2023-04-12 07:45:19,823 judge_handler Judge connected from: ('192.168.144.209', 60587)
+WARNING 2023-04-12 07:45:19,833 judge_handler Judge authentication failure: ('192.168.144.209', 60587)
+INFO 2023-04-12 07:45:19,834 judge_handler Judge disconnected from: ('192.168.144.209', 60587) with name None
+INFO 2023-04-12 07:47:35,991 judge_handler Judge connected from: ('192.168.144.209', 60603)
+INFO 2023-04-12 07:47:36,005 judge_handler Judge authenticated: ('192.168.144.209', 60603) (judgeTest)
+INFO 2023-04-12 07:50:58,010 judge_handler Judge disconnected from: ('192.168.144.209', 60603) with name judgeTest
+INFO 2023-04-12 07:51:29,566 judge_handler Judge connected from: ('192.168.144.209', 60708)
+INFO 2023-04-12 07:51:29,578 judge_handler Judge authenticated: ('192.168.144.209', 60708) (judgeTest)
+INFO 2023-04-12 07:54:17,070 judge_list Specified judge judgeTest is available
+INFO 2023-04-12 07:54:17,071 judge_list Dispatched submission 1 to: judgeTest
+INFO 2023-04-12 07:54:17,105 judge_handler Submission acknowledged: 1
+INFO 2023-04-12 07:54:17,647 judge_handler judgeTest: Submission generated compiler messages: 1
+INFO 2023-04-12 07:54:17,659 judge_handler judgeTest: Grading has begun on: 1
+INFO 2023-04-12 07:54:17,746 judge_handler judgeTest: 1 test case(s) completed on: 1
+INFO 2023-04-12 07:54:18,037 judge_handler judgeTest: 1 test case(s) completed on: 1
+INFO 2023-04-12 07:54:18,144 judge_handler judgeTest: 1 test case(s) completed on: 1
+INFO 2023-04-12 07:54:18,257 judge_handler judgeTest: Grading has ended on: 1
+INFO 2023-04-12 07:54:18,257 judge_list Judge available after grading 1: judgeTest
+INFO 2023-04-12 07:54:43,017 judge_list Specified judge judgeTest is available
+INFO 2023-04-12 07:54:43,017 judge_list Dispatched submission 2 to: judgeTest
+INFO 2023-04-12 07:54:43,064 judge_handler Submission acknowledged: 2
+INFO 2023-04-12 07:54:43,703 judge_handler judgeTest: Submission generated compiler messages: 2
+INFO 2023-04-12 07:54:43,808 judge_handler judgeTest: Grading has begun on: 2
+INFO 2023-04-12 07:54:44,022 judge_handler judgeTest: 1 test case(s) completed on: 2
+INFO 2023-04-12 07:54:44,229 judge_handler judgeTest: 2 test case(s) completed on: 2
+INFO 2023-04-12 07:54:44,247 judge_handler judgeTest: Grading has ended on: 2
+INFO 2023-04-12 07:54:44,247 judge_list Judge available after grading 2: judgeTest
+ERROR 2023-04-12 10:47:40,598 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 172, in handle
+    self.read_sized_packet(self.read_size())
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 110, in read_size
+    recv = self.request.recv(size_pack.size - len(buffer))
+ConnectionResetError: [Errno 104] Connection reset by peer
+ERROR 2023-04-12 10:47:41,048 judge_handler Ping error in judgeTest
+Traceback (most recent call last):
+  File "/home/chungtran/online-judge/judge/bridge/judge_handler.py", line 596, in _ping_thread
+    self.ping()
+  File "/home/chungtran/online-judge/judge/bridge/judge_handler.py", line 290, in ping
+    self.send({'name': 'ping', 'when': time.time()})
+  File "/home/chungtran/online-judge/judge/bridge/judge_handler.py", line 150, in send
+    super().send(json.dumps(data, separators=(',', ':')))
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 198, in send
+    self.request.sendall(size_pack.pack(len(compressed)) + compressed)
+BrokenPipeError: [Errno 32] Broken pipe
+INFO 2023-04-12 10:47:49,142 judge_handler Judge disconnected from: ('192.168.144.209', 60708) with name judgeTest
+INFO 2023-04-13 07:38:29,211 daemon Exiting due to SIGINT
+INFO 2023-04-13 07:46:07,776 judge_handler Judge connected from: ('192.168.20.161', 54087)
+INFO 2023-04-13 07:46:07,792 judge_handler Judge authenticated: ('192.168.20.161', 54087) (judgeTest)
+ERROR 2023-04-13 09:39:40,270 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 172, in handle
+    self.read_sized_packet(self.read_size())
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 110, in read_size
+    recv = self.request.recv(size_pack.size - len(buffer))
+ConnectionResetError: [Errno 104] Connection reset by peer
+ERROR 2023-04-13 09:39:49,255 judge_handler Ping error in judgeTest
+Traceback (most recent call last):
+  File "/home/chungtran/online-judge/judge/bridge/judge_handler.py", line 596, in _ping_thread
+    self.ping()
+  File "/home/chungtran/online-judge/judge/bridge/judge_handler.py", line 290, in ping
+    self.send({'name': 'ping', 'when': time.time()})
+  File "/home/chungtran/online-judge/judge/bridge/judge_handler.py", line 150, in send
+    super().send(json.dumps(data, separators=(',', ':')))
+  File "/home/chungtran/online-judge/judge/bridge/base_handler.py", line 198, in send
+    self.request.sendall(size_pack.pack(len(compressed)) + compressed)
+BrokenPipeError: [Errno 32] Broken pipe
+INFO 2023-04-13 09:39:52,913 judge_handler Judge disconnected from: ('192.168.20.161', 54087) with name judgeTest
+INFO 2023-04-18 16:30:14,151 daemon Exiting due to SIGINT
+INFO 2023-04-18 17:45:10,795 daemon Exiting due to SIGINT
+INFO 2023-04-19 01:12:53,017 daemon Exiting due to SIGINT
+INFO 2023-04-19 01:16:21,630 daemon Exiting due to SIGINT
+INFO 2023-04-19 01:20:21,781 daemon Exiting due to SIGINT
+INFO 2023-04-19 01:21:20,102 daemon Exiting due to SIGINT
+INFO 2023-04-19 01:21:28,672 daemon Exiting due to SIGINT
+INFO 2023-04-19 01:21:47,529 daemon Exiting due to SIGINT
+INFO 2023-04-19 01:21:59,686 daemon Exiting due to SIGINT
+INFO 2023-06-22 08:41:35,485 judge_handler Judge connected from: ('172.17.0.2', 59836)
+INFO 2023-06-22 08:41:35,627 judge_handler Judge authenticated: ('172.17.0.2', 59836) (Test1)
+INFO 2023-06-22 09:21:35,211 daemon Exiting due to SIGINT
+INFO 2023-06-22 09:27:34,758 judge_handler Judge connected from: ('172.17.0.2', 59852)
+INFO 2023-06-22 09:27:34,829 judge_handler Judge authenticated: ('172.17.0.2', 59852) (Test1)
+INFO 2023-06-22 10:37:27,338 daemon Exiting due to SIGINT
+INFO 2023-06-29 07:49:01,493 judge_handler Judge connected from: ('172.17.0.2', 39342)
+INFO 2023-06-29 07:49:01,528 judge_handler Judge authenticated: ('172.17.0.2', 39342) (Test1)
+INFO 2023-06-29 09:14:49,166 judge_list Specified judge Test1 is available
+INFO 2023-06-29 09:14:49,214 judge_list Dispatched submission 12 to: Test1
+INFO 2023-06-29 09:14:49,267 judge_handler Submission acknowledged: 12
+INFO 2023-06-29 09:14:51,942 judge_handler Test1: Submission generated compiler messages: 12
+INFO 2023-06-29 09:14:51,975 judge_handler Test1: Grading has begun on: 12
+INFO 2023-06-29 09:14:52,188 judge_handler Test1: 1 test case(s) completed on: 12
+INFO 2023-06-29 09:14:52,371 judge_handler Test1: 2 test case(s) completed on: 12
+INFO 2023-06-29 09:14:52,415 judge_handler Test1: Grading has ended on: 12
+INFO 2023-06-29 09:14:52,415 judge_list Judge available after grading 12: Test1
+INFO 2023-06-29 10:33:05,136 judge_list Free judges: 1
+INFO 2023-06-29 10:33:05,191 judge_list Dispatched submission 10 to: Test1
+INFO 2023-06-29 10:33:05,256 judge_handler Submission acknowledged: 10
+INFO 2023-06-29 10:33:07,829 judge_handler Test1: Submission generated compiler messages: 10
+INFO 2023-06-29 10:33:07,870 judge_handler Test1: Grading has begun on: 10
+INFO 2023-06-29 10:33:08,340 judge_handler Test1: 2 test case(s) completed on: 10
+INFO 2023-06-29 10:33:08,996 judge_handler Test1: 1 test case(s) completed on: 10
+INFO 2023-06-29 10:33:09,064 judge_handler Test1: Grading has ended on: 10
+INFO 2023-06-29 10:33:09,064 judge_list Judge available after grading 10: Test1
+INFO 2023-06-29 10:39:49,404 daemon Exiting due to SIGINT
+INFO 2023-07-06 08:41:39,160 judge_handler Judge connected from: ('172.17.0.3', 46950)
+INFO 2023-07-06 08:41:39,179 judge_handler Judge authenticated: ('172.17.0.3', 46950) (Test1)
+INFO 2023-07-06 09:02:30,982 judge_list Specified judge Test1 is available
+INFO 2023-07-06 09:02:30,983 judge_list Dispatched submission 13 to: Test1
+INFO 2023-07-06 09:02:30,993 judge_handler Submission acknowledged: 13
+INFO 2023-07-06 09:02:31,501 judge_handler Test1: Submission generated compiler messages: 13
+INFO 2023-07-06 09:02:31,518 judge_handler Test1: Grading has begun on: 13
+INFO 2023-07-06 09:02:31,796 judge_handler Test1: 2 test case(s) completed on: 13
+INFO 2023-07-06 09:02:31,817 judge_handler Test1: 1 test case(s) completed on: 13
+INFO 2023-07-06 09:02:31,833 judge_handler Test1: Grading has ended on: 13
+INFO 2023-07-06 09:02:31,834 judge_list Judge available after grading 13: Test1
+INFO 2023-07-06 10:41:34,579 daemon Exiting due to SIGINT
+INFO 2023-07-13 08:52:30,569 judge_handler Judge connected from: ('172.17.0.4', 48316)
+INFO 2023-07-13 08:52:30,592 judge_handler Judge authenticated: ('172.17.0.4', 48316) (Test1)
+INFO 2023-07-19 05:23:26,202 daemon Exiting due to SIGINT
+INFO 2023-07-19 05:38:13,039 judge_handler Judge connected from: ('172.17.0.2', 44532)
+INFO 2023-07-19 05:38:13,045 judge_handler Judge authenticated: ('172.17.0.2', 44532) (Test1)
+INFO 2023-07-19 05:50:28,756 judge_list Specified judge Test1 is available
+INFO 2023-07-19 05:50:28,757 judge_list Dispatched submission 14 to: Test1
+INFO 2023-07-19 05:50:28,817 judge_handler Submission acknowledged: 14
+INFO 2023-07-19 05:50:30,738 judge_handler Test1: Submission failed to compile: 14
+INFO 2023-07-19 05:50:30,739 judge_list Judge available after grading 14: Test1
+INFO 2023-07-19 05:51:41,072 judge_list Specified judge Test1 is available
+INFO 2023-07-19 05:51:41,073 judge_list Dispatched submission 15 to: Test1
+INFO 2023-07-19 05:51:41,081 judge_handler Submission acknowledged: 15
+INFO 2023-07-19 05:51:41,282 judge_handler Test1: Submission generated compiler messages: 15
+INFO 2023-07-19 05:51:41,319 judge_handler Test1: Grading has begun on: 15
+INFO 2023-07-19 05:51:41,458 judge_handler Test1: 1 test case(s) completed on: 15
+INFO 2023-07-19 05:51:41,694 judge_handler Test1: 2 test case(s) completed on: 15
+INFO 2023-07-19 05:51:41,733 judge_handler Test1: Grading has ended on: 15
+INFO 2023-07-19 05:51:41,733 judge_list Judge available after grading 15: Test1
+INFO 2023-07-19 07:42:33,612 base_handler Socket timed out: ('172.17.0.2', 44532)
+WARNING 2023-07-19 07:42:33,632 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-19 07:42:33,663 judge_handler Judge disconnected from: ('172.17.0.2', 44532) with name Test1
+INFO 2023-07-19 11:51:06,015 daemon Exiting due to SIGINT
+INFO 2023-07-19 11:52:44,990 judge_handler Judge connected from: ('172.17.0.2', 33226)
+INFO 2023-07-19 11:52:45,016 judge_handler Judge authenticated: ('172.17.0.2', 33226) (Test1)
+INFO 2023-07-19 19:56:36,753 judge_list Free judges: 1
+INFO 2023-07-19 19:56:39,197 judge_list Dispatched submission 10 to: Test1
+INFO 2023-07-19 19:56:43,575 judge_handler Submission acknowledged: 10
+INFO 2023-07-19 19:56:54,435 judge_handler Test1: Submission generated compiler messages: 10
+INFO 2023-07-19 19:56:54,961 judge_handler Test1: Grading has begun on: 10
+INFO 2023-07-19 19:56:56,151 judge_handler Test1: 2 test case(s) completed on: 10
+INFO 2023-07-19 19:56:56,622 judge_handler Test1: 2 test case(s) completed on: 10
+INFO 2023-07-19 19:56:56,864 judge_handler Test1: 1 test case(s) completed on: 10
+INFO 2023-07-19 19:56:57,384 judge_handler Test1: 1 test case(s) completed on: 10
+INFO 2023-07-19 19:56:57,622 judge_handler Test1: Grading has ended on: 10
+INFO 2023-07-19 19:56:57,623 judge_list Judge available after grading 10: Test1
+INFO 2023-07-19 19:57:17,132 judge_list Free judges: 1
+INFO 2023-07-19 19:57:17,132 judge_list Dispatched submission 10 to: Test1
+INFO 2023-07-19 19:57:17,166 judge_handler Submission acknowledged: 10
+INFO 2023-07-19 19:57:17,355 judge_handler Test1: Submission generated compiler messages: 10
+INFO 2023-07-19 19:57:17,366 judge_handler Test1: Grading has begun on: 10
+INFO 2023-07-19 19:57:17,631 judge_handler Test1: 2 test case(s) completed on: 10
+INFO 2023-07-19 19:57:18,634 judge_handler Test1: 3 test case(s) completed on: 10
+INFO 2023-07-19 19:57:19,340 judge_handler Test1: 1 test case(s) completed on: 10
+INFO 2023-07-19 19:57:19,408 judge_handler Test1: Grading has ended on: 10
+INFO 2023-07-19 19:57:19,408 judge_list Judge available after grading 10: Test1
+INFO 2023-07-19 19:57:23,894 judge_list Free judges: 1
+INFO 2023-07-19 19:57:23,895 judge_list Dispatched submission 10 to: Test1
+INFO 2023-07-19 19:57:23,901 judge_handler Submission acknowledged: 10
+INFO 2023-07-19 19:57:25,134 judge_handler Test1: Submission generated compiler messages: 10
+INFO 2023-07-19 19:57:25,183 judge_handler Test1: Grading has begun on: 10
+INFO 2023-07-19 19:57:25,238 judge_handler Test1: 1 test case(s) completed on: 10
+INFO 2023-07-19 19:57:25,316 judge_handler Test1: 1 test case(s) completed on: 10
+INFO 2023-07-19 19:57:25,408 judge_handler Test1: 3 test case(s) completed on: 10
+INFO 2023-07-19 19:57:26,496 judge_handler Test1: 1 test case(s) completed on: 10
+INFO 2023-07-19 19:57:26,516 judge_handler Test1: Grading has ended on: 10
+INFO 2023-07-19 19:57:26,516 judge_list Judge available after grading 10: Test1
+INFO 2023-07-20 05:29:48,001 base_handler Socket timed out: ('172.17.0.2', 33226)
+WARNING 2023-07-20 05:29:48,098 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 05:29:48,252 judge_handler Judge disconnected from: ('172.17.0.2', 33226) with name Test1
+INFO 2023-07-20 05:39:25,566 judge_handler Judge connected from: ('172.17.0.2', 38234)
+INFO 2023-07-20 05:39:25,853 judge_handler Judge authenticated: ('172.17.0.2', 38234) (Test1)
+INFO 2023-07-20 05:41:45,981 base_handler Socket timed out: ('172.17.0.2', 38234)
+WARNING 2023-07-20 05:41:45,982 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 05:41:46,090 judge_handler Judge disconnected from: ('172.17.0.2', 38234) with name Test1
+INFO 2023-07-20 05:43:08,932 judge_handler Judge connected from: ('172.17.0.2', 45162)
+INFO 2023-07-20 05:43:08,961 judge_handler Judge authenticated: ('172.17.0.2', 45162) (Test1)
+INFO 2023-07-20 05:48:09,049 base_handler Socket timed out: ('172.17.0.2', 45162)
+WARNING 2023-07-20 05:48:09,050 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 05:48:09,257 judge_handler Judge disconnected from: ('172.17.0.2', 45162) with name Test1
+INFO 2023-07-20 05:52:13,096 judge_handler Judge connected from: ('172.17.0.2', 57970)
+INFO 2023-07-20 05:52:13,130 judge_handler Judge authenticated: ('172.17.0.2', 57970) (Test1)
+INFO 2023-07-20 05:53:13,309 base_handler Socket timed out: ('172.17.0.2', 57970)
+WARNING 2023-07-20 05:53:13,310 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 05:53:13,368 judge_handler Judge disconnected from: ('172.17.0.2', 57970) with name Test1
+INFO 2023-07-20 05:57:38,265 judge_handler Judge connected from: ('172.17.0.2', 42966)
+INFO 2023-07-20 05:57:38,311 judge_handler Judge authenticated: ('172.17.0.2', 42966) (Test1)
+INFO 2023-07-20 05:58:38,537 base_handler Socket timed out: ('172.17.0.2', 42966)
+WARNING 2023-07-20 05:58:38,538 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 05:58:38,648 judge_handler Judge disconnected from: ('172.17.0.2', 42966) with name Test1
+INFO 2023-07-20 06:02:51,910 judge_handler Judge connected from: ('172.17.0.2', 33348)
+INFO 2023-07-20 06:02:51,917 judge_handler Judge authenticated: ('172.17.0.2', 33348) (Test1)
+INFO 2023-07-20 06:04:11,993 base_handler Socket timed out: ('172.17.0.2', 33348)
+WARNING 2023-07-20 06:04:11,994 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:04:12,056 judge_handler Judge disconnected from: ('172.17.0.2', 33348) with name Test1
+INFO 2023-07-20 06:09:56,242 judge_handler Judge connected from: ('172.17.0.2', 58050)
+INFO 2023-07-20 06:09:56,260 judge_handler Judge authenticated: ('172.17.0.2', 58050) (Test1)
+INFO 2023-07-20 06:11:16,280 base_handler Socket timed out: ('172.17.0.2', 58050)
+WARNING 2023-07-20 06:11:16,281 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:11:16,358 judge_handler Judge disconnected from: ('172.17.0.2', 58050) with name Test1
+INFO 2023-07-20 06:17:21,374 judge_handler Judge connected from: ('172.17.0.2', 54814)
+INFO 2023-07-20 06:17:21,396 judge_handler Judge authenticated: ('172.17.0.2', 54814) (Test1)
+INFO 2023-07-20 06:18:41,470 base_handler Socket timed out: ('172.17.0.2', 54814)
+WARNING 2023-07-20 06:18:41,471 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:18:41,531 judge_handler Judge disconnected from: ('172.17.0.2', 54814) with name Test1
+INFO 2023-07-20 06:26:50,716 judge_handler Judge connected from: ('172.17.0.2', 52808)
+INFO 2023-07-20 06:26:50,778 judge_handler Judge authenticated: ('172.17.0.2', 52808) (Test1)
+INFO 2023-07-20 06:30:10,841 base_handler Socket timed out: ('172.17.0.2', 52808)
+WARNING 2023-07-20 06:30:10,842 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:30:10,891 judge_handler Judge disconnected from: ('172.17.0.2', 52808) with name Test1
+INFO 2023-07-20 06:37:20,055 judge_handler Judge connected from: ('172.17.0.2', 58344)
+INFO 2023-07-20 06:37:20,060 judge_handler Judge authenticated: ('172.17.0.2', 58344) (Test1)
+INFO 2023-07-20 06:38:40,297 base_handler Socket timed out: ('172.17.0.2', 58344)
+WARNING 2023-07-20 06:38:40,298 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:38:40,335 judge_handler Judge disconnected from: ('172.17.0.2', 58344) with name Test1
+INFO 2023-07-20 06:43:40,165 judge_handler Judge connected from: ('172.17.0.2', 48276)
+INFO 2023-07-20 06:43:40,171 judge_handler Judge authenticated: ('172.17.0.2', 48276) (Test1)
+INFO 2023-07-20 06:44:40,630 base_handler Socket timed out: ('172.17.0.2', 48276)
+WARNING 2023-07-20 06:44:40,631 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:44:40,736 judge_handler Judge disconnected from: ('172.17.0.2', 48276) with name Test1
+INFO 2023-07-20 06:50:43,354 judge_handler Judge connected from: ('172.17.0.2', 60172)
+INFO 2023-07-20 06:50:43,377 judge_handler Judge authenticated: ('172.17.0.2', 60172) (Test1)
+INFO 2023-07-20 06:51:43,558 base_handler Socket timed out: ('172.17.0.2', 60172)
+WARNING 2023-07-20 06:51:43,559 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:51:43,619 judge_handler Judge disconnected from: ('172.17.0.2', 60172) with name Test1
+INFO 2023-07-20 06:57:46,556 judge_handler Judge connected from: ('172.17.0.2', 34582)
+INFO 2023-07-20 06:57:46,561 judge_handler Judge authenticated: ('172.17.0.2', 34582) (Test1)
+INFO 2023-07-20 06:58:46,814 base_handler Socket timed out: ('172.17.0.2', 34582)
+WARNING 2023-07-20 06:58:46,814 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 06:58:46,866 judge_handler Judge disconnected from: ('172.17.0.2', 34582) with name Test1
+INFO 2023-07-20 07:05:53,821 judge_handler Judge connected from: ('172.17.0.2', 49772)
+INFO 2023-07-20 07:05:53,826 judge_handler Judge authenticated: ('172.17.0.2', 49772) (Test1)
+INFO 2023-07-20 07:07:14,069 base_handler Socket timed out: ('172.17.0.2', 49772)
+WARNING 2023-07-20 07:07:14,070 judge_handler Judge seems dead: Test1: False
+INFO 2023-07-20 07:07:23,062 daemon Exiting due to SIGINT
+INFO 2023-07-20 08:59:23,303 daemon Exiting due to SIGINT
+INFO 2023-07-20 08:59:28,735 judge_handler Judge connected from: ('172.17.0.4', 34388)
+INFO 2023-07-20 08:59:28,791 judge_handler Judge authenticated: ('172.17.0.4', 34388) (Test1)
+INFO 2023-07-20 09:59:28,043 daemon Exiting due to SIGINT
+INFO 2023-07-22 18:33:29,138 daemon Exiting due to SIGINT
+INFO 2023-07-22 18:34:18,945 judge_handler Judge connected from: ('172.17.0.2', 49042)
+INFO 2023-07-22 18:34:18,949 judge_handler Judge authenticated: ('172.17.0.2', 49042) (Test1)
+INFO 2023-07-22 18:35:42,469 daemon Exiting due to SIGINT
+INFO 2023-07-22 18:35:56,507 judge_handler Judge connected from: ('172.17.0.2', 45622)
+INFO 2023-07-22 18:35:56,511 judge_handler Judge authenticated: ('172.17.0.2', 45622) (Test1)
+INFO 2023-07-22 18:36:10,639 judge_handler Judge disconnected from: ('172.17.0.2', 45622) with name Test1
+INFO 2023-07-22 18:36:35,266 judge_handler Judge connected from: ('172.17.0.2', 54630)
+INFO 2023-07-22 18:36:35,269 judge_handler Judge authenticated: ('172.17.0.2', 54630) (Test1)
+INFO 2023-07-22 20:41:16,600 daemon Exiting due to SIGINT
+INFO 2023-07-23 04:08:53,083 judge_handler Judge connected from: ('172.17.0.2', 43736)
+INFO 2023-07-23 04:08:53,118 judge_handler Judge authenticated: ('172.17.0.2', 43736) (Test1)
+INFO 2023-07-26 03:22:52,391 judge_handler Judge connected from: ('172.17.0.2', 43424)
+INFO 2023-07-26 03:22:52,429 judge_handler Judge authenticated: ('172.17.0.2', 43424) (Test1)
+INFO 2023-07-26 14:58:00,045 daemon Exiting due to SIGINT
+INFO 2023-07-27 04:20:38,814 judge_handler Judge connected from: ('172.17.0.4', 36672)
+INFO 2023-07-27 04:20:38,994 judge_handler Judge authenticated: ('172.17.0.4', 36672) (Test1)
+INFO 2023-07-27 04:21:48,797 daemon Exiting due to SIGINT
+INFO 2023-07-29 21:12:46,271 judge_handler Judge connected from: ('172.17.0.2', 41226)
+INFO 2023-07-29 21:12:46,319 judge_handler Judge authenticated: ('172.17.0.2', 41226) (Test1)
+INFO 2023-08-04 18:35:11,556 judge_handler Judge connected from: ('172.17.0.2', 33012)
+INFO 2023-08-04 18:35:11,566 judge_handler Judge authenticated: ('172.17.0.2', 33012) (Test1)
+INFO 2023-08-04 20:43:57,974 judge_list Free judges: 1
+INFO 2023-08-04 20:43:57,993 judge_list Dispatched submission 17 to: Test1
+INFO 2023-08-04 20:43:58,018 judge_handler Submission acknowledged: 17
+INFO 2023-08-04 20:44:05,721 judge_handler Test1: Submission generated compiler messages: 17
+INFO 2023-08-04 20:44:05,755 judge_handler Test1: Grading has begun on: 17
+INFO 2023-08-04 20:44:06,271 judge_handler Test1: 1 test case(s) completed on: 17
+INFO 2023-08-04 20:44:06,521 judge_handler Test1: 1 test case(s) completed on: 17
+INFO 2023-08-04 20:44:07,022 judge_handler Test1: 1 test case(s) completed on: 17
+INFO 2023-08-04 20:44:07,272 judge_handler Test1: 1 test case(s) completed on: 17
+INFO 2023-08-04 20:44:07,530 judge_handler Test1: 1 test case(s) completed on: 17
+INFO 2023-08-04 20:44:07,783 judge_handler Test1: 1 test case(s) completed on: 17
+INFO 2023-08-04 20:44:07,820 judge_handler Test1: Grading has ended on: 17
+INFO 2023-08-04 20:44:07,820 judge_list Judge available after grading 17: Test1
+INFO 2023-08-04 20:49:16,385 judge_list Specified judge Test1 is available
+INFO 2023-08-04 20:49:16,386 judge_list Dispatched submission 18 to: Test1
+INFO 2023-08-04 20:49:16,397 judge_handler Submission acknowledged: 18
+INFO 2023-08-04 20:49:17,923 judge_handler Test1: Submission generated compiler messages: 18
+INFO 2023-08-04 20:49:17,950 judge_handler Test1: Grading has begun on: 18
+INFO 2023-08-04 20:49:18,241 judge_handler Test1: 1 test case(s) completed on: 18
+INFO 2023-08-04 20:49:18,492 judge_handler Test1: 1 test case(s) completed on: 18
+INFO 2023-08-04 20:49:18,994 judge_handler Test1: 2 test case(s) completed on: 18
+INFO 2023-08-04 20:49:19,244 judge_handler Test1: 1 test case(s) completed on: 18
+INFO 2023-08-04 20:49:19,669 judge_handler Test1: 1 test case(s) completed on: 18
+INFO 2023-08-04 20:49:19,692 judge_handler Test1: Grading has ended on: 18
+INFO 2023-08-04 20:49:19,692 judge_list Judge available after grading 18: Test1
+INFO 2023-08-04 20:50:54,812 judge_list Free judges: 1
+INFO 2023-08-04 20:50:54,813 judge_list Dispatched submission 19 to: Test1
+INFO 2023-08-04 20:50:54,824 judge_handler Submission acknowledged: 19
+INFO 2023-08-04 20:50:57,699 judge_handler Test1: Submission failed to compile: 19
+INFO 2023-08-04 20:50:57,699 judge_list Judge available after grading 19: Test1
+INFO 2023-08-04 20:51:12,693 judge_list Free judges: 1
+INFO 2023-08-04 20:51:12,693 judge_list Dispatched submission 20 to: Test1
+INFO 2023-08-04 20:51:12,702 judge_handler Submission acknowledged: 20
+INFO 2023-08-04 20:51:13,759 judge_handler Test1: Submission generated compiler messages: 20
+INFO 2023-08-04 20:51:14,243 judge_handler Test1: Grading has begun on: 20
+INFO 2023-08-04 20:51:14,449 judge_handler Test1: 1 test case(s) completed on: 20
+INFO 2023-08-04 20:51:14,574 judge_handler Test1: 1 test case(s) completed on: 20
+INFO 2023-08-04 20:51:15,076 judge_handler Test1: 2 test case(s) completed on: 20
+INFO 2023-08-04 20:51:15,326 judge_handler Test1: 1 test case(s) completed on: 20
+INFO 2023-08-04 20:51:15,722 judge_handler Test1: 1 test case(s) completed on: 20
+INFO 2023-08-04 20:51:15,926 judge_handler Test1: Grading has ended on: 20
+INFO 2023-08-04 20:51:15,927 judge_list Judge available after grading 20: Test1
+INFO 2023-08-04 21:05:52,479 daemon Exiting due to SIGINT
+INFO 2023-08-04 21:11:55,733 judge_handler Judge connected from: ('172.17.0.2', 44402)
+INFO 2023-08-04 21:11:55,755 judge_handler Judge authenticated: ('172.17.0.2', 44402) (Test1)
+INFO 2023-08-04 21:12:39,435 judge_handler Judge disconnected from: ('172.17.0.2', 44402) with name Test1
+INFO 2023-08-04 21:42:38,107 daemon Exiting due to SIGINT
+INFO 2023-08-05 03:22:54,825 judge_handler Judge connected from: ('172.17.0.4', 56702)
+INFO 2023-08-05 03:22:54,846 judge_handler Judge authenticated: ('172.17.0.4', 56702) (Test1)
+INFO 2023-08-05 03:39:39,279 judge_handler Judge disconnected from: ('172.17.0.4', 56702) with name Test1
+INFO 2023-08-05 03:51:40,221 judge_handler Judge connected from: ('172.17.0.2', 39192)
+INFO 2023-08-05 03:51:40,225 judge_handler Judge authenticated: ('172.17.0.2', 39192) (Test1)
+INFO 2023-08-05 05:13:37,674 daemon Exiting due to SIGINT
+INFO 2023-08-05 05:13:58,778 judge_handler Judge connected from: ('172.17.0.2', 47742)
+INFO 2023-08-05 05:13:58,783 judge_handler Judge authenticated: ('172.17.0.2', 47742) (Test1)
+INFO 2023-08-05 06:31:16,562 daemon Exiting due to SIGINT
+INFO 2023-08-05 06:31:35,715 judge_handler Judge connected from: ('172.17.0.2', 50326)
+INFO 2023-08-05 06:31:35,723 judge_handler Judge authenticated: ('172.17.0.2', 50326) (Test1)
+INFO 2023-08-05 06:50:19,700 daemon Exiting due to SIGINT
+INFO 2023-08-05 06:50:44,145 judge_handler Judge connected from: ('172.17.0.2', 51530)
+INFO 2023-08-05 06:50:44,150 judge_handler Judge authenticated: ('172.17.0.2', 51530) (Test1)
+INFO 2023-08-05 06:52:08,888 daemon Exiting due to SIGINT
+INFO 2023-08-05 06:52:40,071 judge_handler Judge connected from: ('172.17.0.2', 59718)
+INFO 2023-08-05 06:52:40,077 judge_handler Judge authenticated: ('172.17.0.2', 59718) (Test1)
+INFO 2023-08-05 11:13:11,933 judge_list Free judges: 1
+INFO 2023-08-05 11:13:11,955 judge_list Dispatched submission 21 to: Test1
+INFO 2023-08-05 11:13:11,965 judge_handler Submission acknowledged: 21
+INFO 2023-08-05 11:13:18,066 judge_handler Test1: Submission failed to compile: 21
+INFO 2023-08-05 11:13:18,066 judge_list Judge available after grading 21: Test1
+INFO 2023-08-05 11:13:21,495 judge_list Free judges: 1
+INFO 2023-08-05 11:13:21,496 judge_list Dispatched submission 22 to: Test1
+INFO 2023-08-05 11:13:21,505 judge_handler Submission acknowledged: 22
+INFO 2023-08-05 11:13:23,007 judge_handler Test1: Submission failed to compile: 22
+INFO 2023-08-05 11:13:23,007 judge_list Judge available after grading 22: Test1
+INFO 2023-08-05 11:13:36,559 judge_list Free judges: 1
+INFO 2023-08-05 11:13:36,559 judge_list Dispatched submission 23 to: Test1
+INFO 2023-08-05 11:13:36,569 judge_handler Submission acknowledged: 23
+INFO 2023-08-05 11:13:42,736 judge_handler Test1: Submission generated compiler messages: 23
+INFO 2023-08-05 11:13:42,764 judge_handler Test1: Grading has begun on: 23
+INFO 2023-08-05 11:13:43,113 judge_handler Test1: 2 test case(s) completed on: 23
+INFO 2023-08-05 11:13:43,363 judge_handler Test1: 3 test case(s) completed on: 23
+INFO 2023-08-05 11:13:43,595 judge_handler Test1: 1 test case(s) completed on: 23
+INFO 2023-08-05 11:13:43,622 judge_handler Test1: Grading has ended on: 23
+INFO 2023-08-05 11:13:43,622 judge_list Judge available after grading 23: Test1
+INFO 2023-08-05 11:47:43,181 judge_list Free judges: 1
+INFO 2023-08-05 11:47:43,194 judge_list Dispatched submission 24 to: Test1
+INFO 2023-08-05 11:47:43,201 judge_handler Submission acknowledged: 24
+INFO 2023-08-05 11:47:44,589 judge_handler Test1: Submission generated compiler messages: 24
+INFO 2023-08-05 11:47:44,612 judge_handler Test1: Grading has begun on: 24
+INFO 2023-08-05 11:47:44,822 judge_handler Test1: 6 test case(s) completed on: 24
+INFO 2023-08-05 11:47:44,901 judge_handler Test1: Grading has ended on: 24
+INFO 2023-08-05 11:47:44,901 judge_list Judge available after grading 24: Test1
+INFO 2023-08-05 11:48:13,545 judge_list Free judges: 1
+INFO 2023-08-05 11:48:13,546 judge_list Dispatched submission 25 to: Test1
+INFO 2023-08-05 11:48:13,555 judge_handler Submission acknowledged: 25
+INFO 2023-08-05 11:48:13,832 judge_handler Test1: Submission failed to compile: 25
+INFO 2023-08-05 11:48:13,832 judge_list Judge available after grading 25: Test1
+INFO 2023-08-05 11:48:43,222 judge_list Free judges: 1
+INFO 2023-08-05 11:48:43,222 judge_list Dispatched submission 26 to: Test1
+INFO 2023-08-05 11:48:43,229 judge_handler Submission acknowledged: 26
+INFO 2023-08-05 11:48:43,455 judge_handler Test1: Submission generated compiler messages: 26
+INFO 2023-08-05 11:48:43,737 judge_handler Test1: Grading has begun on: 26
+INFO 2023-08-05 11:48:43,956 judge_handler Test1: 1 test case(s) completed on: 26
+INFO 2023-08-05 11:48:44,194 judge_handler Test1: 1 test case(s) completed on: 26
+INFO 2023-08-05 11:48:45,580 judge_handler Test1: 2 test case(s) completed on: 26
+INFO 2023-08-05 11:48:45,831 judge_handler Test1: 1 test case(s) completed on: 26
+INFO 2023-08-05 11:48:47,556 judge_handler Test1: 1 test case(s) completed on: 26
+INFO 2023-08-05 11:48:47,601 judge_handler Test1: Grading has ended on: 26
+INFO 2023-08-05 11:48:47,603 judge_list Judge available after grading 26: Test1
+INFO 2023-08-05 11:49:00,432 judge_list Free judges: 1
+INFO 2023-08-05 11:49:00,450 judge_list Dispatched submission 27 to: Test1
+INFO 2023-08-05 11:49:00,459 judge_handler Submission acknowledged: 27
+INFO 2023-08-05 11:49:00,746 judge_handler Test1: Submission generated compiler messages: 27
+INFO 2023-08-05 11:49:00,753 judge_handler Test1: Grading has begun on: 27
+INFO 2023-08-05 11:49:01,112 judge_handler Test1: 2 test case(s) completed on: 27
+INFO 2023-08-05 11:49:02,882 judge_handler Test1: 1 test case(s) completed on: 27
+INFO 2023-08-05 11:49:03,136 judge_handler Test1: 2 test case(s) completed on: 27
+INFO 2023-08-05 11:49:04,469 judge_handler Test1: 1 test case(s) completed on: 27
+INFO 2023-08-05 11:49:04,677 judge_handler Test1: Grading has ended on: 27
+INFO 2023-08-05 11:49:04,678 judge_list Judge available after grading 27: Test1
+INFO 2023-08-05 11:49:31,113 judge_list Free judges: 1
+INFO 2023-08-05 11:49:31,113 judge_list Dispatched submission 28 to: Test1
+INFO 2023-08-05 11:49:31,121 judge_handler Submission acknowledged: 28
+INFO 2023-08-05 11:49:31,375 judge_handler Test1: Submission generated compiler messages: 28
+INFO 2023-08-05 11:49:31,397 judge_handler Test1: Grading has begun on: 28
+INFO 2023-08-05 11:49:31,563 judge_handler Test1: 6 test case(s) completed on: 28
+INFO 2023-08-05 11:49:31,630 judge_handler Test1: Grading has ended on: 28
+INFO 2023-08-05 11:49:31,630 judge_list Judge available after grading 28: Test1
+INFO 2023-08-05 11:49:38,352 judge_list Free judges: 1
+INFO 2023-08-05 11:49:38,352 judge_list Dispatched submission 29 to: Test1
+INFO 2023-08-05 11:49:38,362 judge_handler Submission acknowledged: 29
+INFO 2023-08-05 11:49:38,714 judge_handler Test1: Submission generated compiler messages: 29
+INFO 2023-08-05 11:49:38,724 judge_handler Test1: Grading has begun on: 29
+INFO 2023-08-05 11:49:38,918 judge_handler Test1: 1 test case(s) completed on: 29
+INFO 2023-08-05 11:49:39,172 judge_handler Test1: 1 test case(s) completed on: 29
+INFO 2023-08-05 11:49:40,928 judge_handler Test1: 2 test case(s) completed on: 29
+INFO 2023-08-05 11:49:41,178 judge_handler Test1: 1 test case(s) completed on: 29
+INFO 2023-08-05 11:49:42,947 judge_handler Test1: 1 test case(s) completed on: 29
+INFO 2023-08-05 11:49:43,006 judge_handler Test1: Grading has ended on: 29
+INFO 2023-08-05 11:49:43,007 judge_list Judge available after grading 29: Test1
+INFO 2023-08-05 11:51:13,955 judge_list Free judges: 1
+INFO 2023-08-05 11:51:13,956 judge_list Dispatched submission 30 to: Test1
+INFO 2023-08-05 11:51:13,967 judge_handler Submission acknowledged: 30
+INFO 2023-08-05 11:51:14,472 judge_handler Test1: Submission generated compiler messages: 30
+INFO 2023-08-05 11:51:14,519 judge_handler Test1: Grading has begun on: 30
+INFO 2023-08-05 11:51:15,069 judge_handler Test1: 1 test case(s) completed on: 30
+INFO 2023-08-05 11:51:15,321 judge_handler Test1: 1 test case(s) completed on: 30
+INFO 2023-08-05 11:51:18,683 judge_handler Test1: 4 test case(s) completed on: 30
+INFO 2023-08-05 11:51:18,787 judge_handler Test1: Grading has ended on: 30
+INFO 2023-08-05 11:51:18,788 judge_list Judge available after grading 30: Test1
+INFO 2023-08-05 11:52:08,367 judge_list Free judges: 1
+INFO 2023-08-05 11:52:08,367 judge_list Dispatched submission 31 to: Test1
+INFO 2023-08-05 11:52:08,375 judge_handler Submission acknowledged: 31
+INFO 2023-08-05 11:52:08,913 judge_handler Test1: Submission generated compiler messages: 31
+INFO 2023-08-05 11:52:09,069 judge_handler Test1: Grading has begun on: 31
+INFO 2023-08-05 11:52:09,345 judge_handler Test1: 1 test case(s) completed on: 31
+INFO 2023-08-05 11:52:09,599 judge_handler Test1: 1 test case(s) completed on: 31
+INFO 2023-08-05 11:52:12,006 judge_handler Test1: 4 test case(s) completed on: 31
+INFO 2023-08-05 11:52:12,088 judge_handler Test1: Grading has ended on: 31
+INFO 2023-08-05 11:52:12,088 judge_list Judge available after grading 31: Test1
